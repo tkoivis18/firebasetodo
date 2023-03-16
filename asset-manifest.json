@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tfirebasetodo/static/css/main.7da4d6d2.css",
+    "main.js": "/tfirebasetodo/static/js/main.055624e6.js",
+    "static/js/787.686d3523.chunk.js": "/tfirebasetodo/static/js/787.686d3523.chunk.js",
+    "index.html": "/tfirebasetodo/index.html",
+    "main.7da4d6d2.css.map": "/tfirebasetodo/static/css/main.7da4d6d2.css.map",
+    "main.055624e6.js.map": "/tfirebasetodo/static/js/main.055624e6.js.map",
+    "787.686d3523.chunk.js.map": "/tfirebasetodo/static/js/787.686d3523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da4d6d2.css",
+    "static/js/main.055624e6.js"
+  ]
+}
